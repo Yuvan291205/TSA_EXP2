@@ -71,5 +71,4 @@ B- POLYNOMIAL TREND ESTIMATION
 
 ## Result:
 Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
-### RESULT:
-##Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
+
